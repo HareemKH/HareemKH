@@ -7,6 +7,7 @@
 - 📝 I regularly write articles on [https://medium.com/@hareemalikhanz](https://medium.com/@hareemalikhanz)
 
 - 📫 How to reach me **hareemalikhanz@gmail.com**
+- Majority Of My WebDev work will be in the webDev repo
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
