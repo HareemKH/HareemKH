@@ -1,9 +1,9 @@
-![MasterHead](https://images.static-collegedunia.com/public/image//f57c4d1979de06e49b1dd15d02ecd231.gif)
-
+![MasterHead](https://new-url-for-banner-image.gif)
+<img src="https://tryhackme-badges.s3.amazonaws.com/hareem.png" alt="TryHackMe">
 
 # 💫 About Me:
 🌱 I’m currently learning Cybersecurity and basics of web development<br><br>📝 I regularly write articles on https://medium.com/@hareemalikhanz<br><br>📫 How to reach me hareemalikhanz@gmail.com<br>
-<img src="https://tryhackme-badges.s3.amazonaws.com/hareem.png" alt="TryHackMe">
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hareemkhan123) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@hareemalikhanz) 
