@@ -1,5 +1,4 @@
-![MasterHead](https://new-url-for-banner-image.gif)
-<img src="https://tryhackme-badges.s3.amazonaws.com/hareem.png" alt="TryHackMe">
+
 
 # 💫 About Me:
 🌱 I’m currently learning Cybersecurity and basics of web development<br><br>📝 I regularly write articles on https://medium.com/@hareemalikhanz<br><br>📫 How to reach me hareemalikhanz@gmail.com<br>
