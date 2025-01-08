@@ -1,9 +1,9 @@
 
 
 # About Me:
-🌱 I’m currently learning Cybersecurity and basics of web development<br>
+🌱 I’m currently learning Cybersecurity <br>
 <br>📝 I regularly write articles on https://medium.com/@hareemalikhanz<br>
-<br>📫 How to reach me hareemalikhanz@gmail.com<br>
+<br>📫 How to reach me : hareemalikhanz@gmail.com<br>
 
 
 ## 🌐 Socials:
