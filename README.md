@@ -1,10 +1,13 @@
 
 
 # About Me:
-🌱 I’m currently learning Cybersecurity <br>
-<br>📝 I regularly write articles on https://medium.com/@hareemalikhanz<br>
-<br>📫 How to reach me : hareemalikhanz@gmail.com<br>
+👋 Hi there! I’m Hareem Khan, a passionate Cybersecurity enthusiast currently diving deep into the world of cybersecurity. I'm on a mission to understand and protect digital spaces from evolving cyber threats. 🌐💻
 
+📝 In addition to learning, I regularly share my thoughts, tutorials, and cybersecurity articles on Medium. I love breaking down complex topics and making them easy to understand.
+
+🔍 I'm constantly seeking to enhance my skills and knowledge, and I'm always open to new challenges and opportunities in the cybersecurity field.
+
+📫 Feel free to reach out to me at hareemalikhanz@gmail.com 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hareemkhan123) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@hareemalikhanz) 
