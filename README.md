@@ -1,11 +1,12 @@
 
 
 # About Me:
-👋 Hi there! I’m Hareem Khan, a passionate Cybersecurity enthusiast currently diving deep into the world of cybersecurity. I'm on a mission to understand and protect digital spaces from evolving cyber threats. 🌐💻
+👋 Hey, I’m Hareem Khan! A Computer Science undergrad with a passion for cybersecurity, especially OSINT 🕵️‍♂️🔍. Currently diving into frontend development, I love building real-world solutions and bringing my imagination to life through code.
 
-📝 In addition to learning, I regularly share my thoughts, tutorials, and cybersecurity articles on Medium. I love breaking down complex topics and making them easy to understand.
+💡 I thrive on creative problem-solving—but LeetCode? Not my thing. 😤
 
-🔍 I'm constantly seeking to enhance my skills and knowledge, and I'm always open to new challenges and opportunities in the cybersecurity field.
+Always up for new challenges and discussions, so let’s connect and make the digital world more secure! 🚀💻
+
 
 📫 Feel free to reach out to me at hareemalikhanz@gmail.com 
 
