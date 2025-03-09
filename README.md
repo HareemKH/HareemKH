@@ -7,7 +7,7 @@
 
 💡 Curious by nature and driven by learning, I firmly believe in trial and error—after all, if you can spend hours figuring something out, why take the shortcut of reading the instructions? :) 
 
-🚀 I thrive on creative problem-solving, but when it comes to LeetCode? Let's just say it's not my preferred approach.
+
 
 
 📫 Feel free to reach out to me at hareemalikhanz@gmail.com 
