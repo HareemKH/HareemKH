@@ -1,20 +1,20 @@
+##About Me
 
+Hey, I'm Hareem Khan, an undergraduate Cybersecurity student at NED University of Engineering and Technology.
 
-# About Me:
-👋 Hey, I’m Hareem Khan! A Computer Science undergrad with a passion for cybersecurity, especially OSINT 🕵️‍♂️🔍. Currently diving into frontend development, I love building real-world solutions and bringing my imagination to life through code.
+Curious about people, technology, and the things that make the world work the way it does. I enjoy asking questions, exploring unfamiliar subjects, and understanding the stories and psychology behind people.
 
-💡 I thrive on creative problem-solving—but LeetCode? Not my thing. 😤
+On the technical side, I'm interested in Information Security, GRC, and OSINT. I'm ISC2 CC and Huawei HCIA-Datacom certified, and have had the opportunity to gain experience at major fintech institutions.
 
-💡 Curious by nature and driven by learning, I firmly believe in trial and error—after all, if you can spend hours figuring something out, why take the shortcut of reading the instructions? :) 
+I'm currently working on SafeNetix, a project focused on child grooming prevention through multilingual analysis of English, Urdu, and Roman Urdu conversations. The project recently received the Best Final Year Project award at NED.
 
+Beyond cybersecurity, I enjoy writing, photography, exploring new places, and, most of all, having conversations with people. I'm always interested in learning something new, whether it's related to technology or something completely unrelated.
 
-## 🌐 Socials:
+## 🌐 Socials
 
-[![Frontend Mentor](https://img.shields.io/badge/Frontend%20Mentor-%23333333.svg?logo=frontendmentor&logoColor=white)](https://www.frontendmentor.io/profile/HareemKH)
+[![Frontend Mentor](https://img.shields.io/badge/Frontend_Mentor-333333?style=for-the-badge&logo=frontendmentor&logoColor=white)](https://www.frontendmentor.io/profile/HareemKH)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hareemkhan123) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hareemkhan123)
 
-[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@hareemkhanNED) 
+[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@hareemkhanNED)
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
